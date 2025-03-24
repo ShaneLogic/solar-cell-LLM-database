@@ -1,8 +1,7 @@
 # solar-cell-LLM-database 🌞
 
-*SpiroMAPICiTIO2 Perovskite Solar Cell Simulation Database*
+## *SpiroMAPICiTIO2 Solar Cell Simulation Database*
 
----
 
 ## 📁 Core data files
 
@@ -20,8 +19,6 @@ Files | Key parameters | Model equation
 - Band gap (1.2-1.6 eV)
 - Doping concentration (1e15-1e19 cm⁻³)
 - Mobility (μ<sub>n</sub>/μ<sub>p</sub>)
-
----
 
 ## 📄 Documentation
 `SemiSimu-output.pptx` Technical documentation includes：
